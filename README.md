@@ -156,7 +156,7 @@ npm run allure:open
 ### Test Execution Video
 
 ```markdown
-[![Watch the demo]](https://drive.google.com/drive/folders/1RYz4O6zLlrYitmiNZ5WAVKBT15UeClS3?usp=drive_link)
+[Watch the demo](https://drive.google.com/drive/folders/1RYz4O6zLlrYitmiNZ5WAVKBT15UeClS3?usp=drive_link)
 ```
 
 
