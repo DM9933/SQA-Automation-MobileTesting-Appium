@@ -22,7 +22,7 @@ It covers two main automation flows inside the HR module:
 6. Take a screenshot of the search results.
 7. Close the app.
 
-** Test Execution GIF:**  
+*** Test Execution ***  
 ![Attendance Report Search Execution](Task1.gif)
 ---
 
