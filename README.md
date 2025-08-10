@@ -23,7 +23,7 @@ It covers two main automation flows inside the HR module:
 7. Close the app.
 
 ** Test Execution GIF:**  
-![Attendance Report Search Execution](path/to/your-gif.gif)
+![Attendance Report Search Execution](Task1.gif)
 ---
 
 ### **Task 2 – Check-IN & Leave Application Creation**
