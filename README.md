@@ -38,7 +38,7 @@ It covers two main automation flows inside the HR module:
 
 ---
 ## Project Structure
-
+```
 attendance-automation/
 │
 ├── test/
@@ -57,7 +57,7 @@ attendance-automation/
 ├── package.json # Project dependencies & scripts
 ├── README.md # Project documentation
 └── screenshots/ # Saved screenshots
----
+```
 
 ##  Prerequisites
 
