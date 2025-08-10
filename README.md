@@ -87,9 +87,11 @@ This project uses the following NPM packages:
 "devDependencies": {
   "allure-commandline": "^2.x"
 }
+```
 ### You Can Install dependencies
+```bash 
 npm install
----
+```
 
 
 ## Setup Instructions
