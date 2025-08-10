@@ -21,9 +21,6 @@ It covers two main automation flows inside the HR module:
 5. Validate that the search results appear.
 6. Take a screenshot of the search results.
 7. Close the app.
-
-### Test Execution  
-![Attendance Report Search Execution](Task1.gif)
 ---
 
 ### **Task 2 – Check-IN & Leave Application Creation**
@@ -37,9 +34,6 @@ It covers two main automation flows inside the HR module:
 5. Create a new leave application by filling all required fields.
 6. Take a screenshot of the confirmation/listing.
 7. Close the app.
-
-### Test Execution 
-![Check In & Leave Application](path/to/your-gif.gif)
 ---
 ## Project Structure
 ```
