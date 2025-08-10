@@ -22,7 +22,7 @@ It covers two main automation flows inside the HR module:
 6. Take a screenshot of the search results.
 7. Close the app.
 
-***Test Execution***  
+### Test Execution  
 ![Attendance Report Search Execution](Task1.gif)
 ---
 
@@ -38,7 +38,7 @@ It covers two main automation flows inside the HR module:
 6. Take a screenshot of the confirmation/listing.
 7. Close the app.
 
-** Test Execution **  
+### Test Execution 
 ![Check In & Leave Application](path/to/your-gif.gif)
 ---
 ## Project Structure
@@ -156,7 +156,7 @@ npm run allure:open
 ### Test Execution Video
 
 ```markdown
-[![Watch the demo](https://img.youtube.com/vi/your-video-id/0.jpg)](https://youtu.be/your-video-id)
+[![Watch the demo]](https://drive.google.com/drive/folders/1RYz4O6zLlrYitmiNZ5WAVKBT15UeClS3?usp=drive_link)
 ```
 
 
