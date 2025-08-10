@@ -154,10 +154,7 @@ npm run allure:open
 2. Failures also attach screenshots to Allure reports.
 
 ### Test Execution Video
-
-```markdown
 [Watch the demo](https://drive.google.com/drive/folders/1RYz4O6zLlrYitmiNZ5WAVKBT15UeClS3?usp=drive_link)
-```
 
 
 
