@@ -1,0 +1,21 @@
+START EMULATOR
+emulator -avd Pixel_6a
+
+START ADB SERVER
+adb kill-server
+adb start-server
+adb devices
+
+START APPIUM SERVER
+appium
+
+RUN WDIO/APPIUM ALL TEST
+npx wdio run wdio.conf.js
+
+RUN WDIO/APPIUM SPECIFIC TEST
+npx wdio run wdio.conf.js --spec ./test/specs/task1_attendanceReportSearch.js
+
+npm run wdio           # Run tests
+npm run allure:generate # Generate report
+npm run allure:open     # Open report
+
